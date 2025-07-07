@@ -11,6 +11,7 @@ days:
       - name: PROJ
         type: proj
         title: Intro to Python and ML
+        url: projects/proj01/
   - date: '2025-07-08'
     events:
       - name: SCI COMM
