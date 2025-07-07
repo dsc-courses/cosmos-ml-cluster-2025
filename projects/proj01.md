@@ -39,6 +39,10 @@ nav_order: 1
 [cse8a-tasks]: https://colab.research.google.com/drive/1eGfSuMMduI-7JcL0bX8aZNbCihwLylVp?usp=sharing 'CSE 8A Tasks'
 [decision-trees-wine]: https://colab.research.google.com/drive/1MOXr5F1Ciw_k2S0uDmVtf3IG9MqcQQJq?usp=drive_link 'Decision Trees Wine Variety Prediction'
 
+<!--  -->
+
+[advent]: https://adventofcode.com/
+
 ## Python Basics: Do these first!
 
 1. **Intro to Programming:** [notebook][intro-to-programming]
@@ -77,6 +81,8 @@ nav_order: 1
    - Problems 1-10
    - Problems 11-20
    - [Tasks from CSE 8A][cse8a-tasks]
+
+2. Super challenge! [Work on Advent of Code problems 1-5.][advent]
 
 <!-- 2. **Decision Trees to Predict Wine Variety:** [notebook][decision-trees-wine] (starter code)
 
