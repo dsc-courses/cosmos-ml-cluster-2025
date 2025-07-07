@@ -7,7 +7,7 @@ days:
       - name: LEC
         type: lecture
         title: Welcome, Intro to Python
-        url: https://drive.google.com/file/d/1CoLIyOLbpDY1HesjS3H-HSjnMw5QFIZT/view?usp=sharing
+        url: https://docs.google.com/presentation/d/1Jlsk6ohRjOxG0wl9X2TQJA3BNa99UaRD/edit?usp=sharing
       - name: PROJ
         type: proj
         title: Intro to Python and ML
