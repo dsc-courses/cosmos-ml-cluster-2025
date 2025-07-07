@@ -21,8 +21,8 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: TBD
-        # url: lectures/01-DSC106-ValueOfVisualization.pdf
+        title: Python Basics
+        url: https://docs.google.com/presentation/d/107A6ClyOLkOQRS02cF4KNJg1isGNDGyDqYS86pmI1hQ/edit?usp=sharing
   - date: '2025-07-10'
     events:
       - name: SCI COMM
@@ -32,6 +32,6 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: TBD
-        # url: lectures/01-DSC106-ValueOfVisualization.pdf
+        title: Working with Data (numpy and pandas)
+        url: https://drive.google.com/file/d/11zmJpmiTAdTNgUAOnKxCtpsFM9LZQneZ/view?usp=sharing
 ---

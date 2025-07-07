@@ -71,7 +71,7 @@ nav_order: 1
 
 ## Challenge Problems (Optional)
 
-1. **Python Basics:** [notebook][challenge-python-basics]
+1. **Python Basics:**
 
    - If you finish early go to [https://leetcode.com/problemset/all/][leetcode-all]
    - Problems 1-10
