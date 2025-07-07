@@ -8,9 +8,9 @@ days:
         type: lecture
         title: Welcome, Intro to Python
         url: https://drive.google.com/file/d/1CoLIyOLbpDY1HesjS3H-HSjnMw5QFIZT/view?usp=sharing
-      - name: LAB
-        type: lab
-        title: Lab
+      - name: PROJ
+        type: proj
+        title: Intro to Python and ML
   - date: '2025-07-08'
     events:
       - name: SCI COMM
