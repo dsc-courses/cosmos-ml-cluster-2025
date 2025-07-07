@@ -40,21 +40,25 @@
   <div>
     <h3 class="staffer-name">
       {% if page.role %}
-      {% if page.role == 'TA' %}
-      <span class="badge-ta">{{ page.role }}</span><br>
-      {% elsif page.role == 'Tutor' %}
-      <span class="badge-tutor">{{ page.role }}</span><br>
-      {% elsif page.role == 'Mascot' %}
-      <span class="badge-mascot">{{ page.role }}</span><br>
-      {% else %}
-      {% endif %}
-      {% if page.website %}
-      <a href="{{ page.website }}">{{ page.name }}</a>
-      {% else %}
-      {{ page.name }}
-      {% endif %}
-      {% if page.pronouns %}
-      <div class="staffer-pronouns"><b>{{ page.pronouns }}</b></div>
+        {% if page.role == 'TA' %}
+        <span class="badge-ta">{{ page.role }}</span><br>
+        {% elsif page.role == 'Teacher Fellow' %}
+        <span class="badge-tf">{{ page.role }}</span><br>
+        {% elsif page.role == 'Tutor' %}
+        <span class="badge-tutor">{{ page.role }}</span><br>
+        {% elsif page.role == 'Mascot' %}
+        <span class="badge-mascot">{{ page.role }}</span><br>
+        {% else %}
+        {% endif %}
+
+        {% if page.website %}
+        <a href="{{ page.website }}">{{ page.name }}</a>
+        {% else %}
+        {{ page.name }}
+        {% endif %}
+        {% if page.pronouns %}
+        <div class="staffer-pronouns"><b>{{ page.pronouns }}</b></div>
+        {% endif %}
       {% endif %}
     </h3>
     <p>
@@ -62,7 +66,6 @@
     <a href="mailto:{{ page.email }}">{{ page.email }}</a>
     {% endif %}
 
-    {% endif %}
     {% if page.lecture %}
     <p><b>Lecture(s)</b>: {{ page.lecture }}</p>
     {% endif %}
@@ -72,15 +75,15 @@
     {% if page.description %}
     <p title="Description">🎓 {{ page.description }}</p>
     {% endif %}
-    
+
     {% if page.hometown %}
     <p title="Hometown">🏠 {{ page.hometown }}</p>
     {% endif %}
-    
+
     {% if page.askabout %}
     <p title="In office hours, ask me about...">🙋 {{ page.askabout }}</p>
     {% endif %}
-    
+
     {% if page.food %}
     <p title="Favorite food in San Diego">🍝 {{ page.food }}</p>
     {% endif %}

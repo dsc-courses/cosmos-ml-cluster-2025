@@ -18,9 +18,7 @@ nav_order: 1
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
 {: .note }
-**June 17, 2025:** The Spring 2025 offering of DSC 106 has
-concluded. Please visit our [Final Project Showcase](showcase) page to see our
-students' final projects, including our award winners!
+**July 7, 2025:** Welcome to COSMOS 2025 Cluster 12!
 
 {% for module in site.modules %}
 {{ module }}

@@ -16,6 +16,11 @@ nav_order: 4
 
 ## Staff
 
+{% assign tfs = site.staffers | where: 'role', 'Teacher Fellow' %}
+{% for staffer in tfs %}
+{{ staffer }}
+{% endfor %}
+
 {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
 {{ staffer }}

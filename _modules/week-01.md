@@ -2,20 +2,35 @@
 title: Week 1
 weekNumber: 1
 days:
-  - date: '2025-04-02'
+  - date: '2025-07-07'
     events:
-      - name: LEC 1
+      - name: LEC
         type: lecture
-        title: The Value of Visualization
-        url: lectures/01-DSC106-ValueOfVisualization.pdf
-  - date: '2025-04-04'
-    events:
-      - name: LEC 2
-        type: lecture
-        title: Data & Image Models
-        url: lectures/02-DSC106-DataImageModels.pdf
-      - name: LAB 1
+        title: Welcome, Intro to Python
+        url: https://drive.google.com/file/d/1CoLIyOLbpDY1HesjS3H-HSjnMw5QFIZT/view?usp=sharing
+      - name: LAB
         type: lab
-        title: Lab 1
-        url: labs/lab01
+        title: Lab
+  - date: '2025-07-08'
+    events:
+      - name: SCI COMM
+        type: lecture
+        title: Science Communication
+  - date: '2025-07-09'
+    events:
+      - name: LEC
+        type: lecture
+        title: TBD
+        # url: lectures/01-DSC106-ValueOfVisualization.pdf
+  - date: '2025-07-10'
+    events:
+      - name: SCI COMM
+        type: lecture
+        title: Science Communication
+  - date: '2025-07-11'
+    events:
+      - name: LEC
+        type: lecture
+        title: TBD
+        # url: lectures/01-DSC106-ValueOfVisualization.pdf
 ---
