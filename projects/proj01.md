@@ -39,6 +39,7 @@ nav_order: 1
 [cse8a-tasks]: https://colab.research.google.com/drive/1eGfSuMMduI-7JcL0bX8aZNbCihwLylVp?usp=sharing 'CSE 8A Tasks'
 [decision-trees-wine]: https://colab.research.google.com/drive/1MOXr5F1Ciw_k2S0uDmVtf3IG9MqcQQJq?usp=drive_link 'Decision Trees Wine Variety Prediction'
 [license-challenge]: https://drive.google.com/open?id=1ImsiLza2ZWir7M0MlqGCMO-Ead6PTS1g&usp=drive_fs
+[restaurant-challenge]: https://drive.google.com/open?id=1c58o8CY3f-fwoXXYwzerpZskGDl8_QmD&usp=drive_fs
 
 <!--  -->
 
@@ -88,6 +89,10 @@ nav_order: 1
 ## License Plate Challenge (Optional, but very cool!)
 
 [Complete this notebook in groups of 2 or 3.][license-challenge]
+
+## Restaurant Safety Challenge (Optional)
+
+[Complete this notebook in groups of 2 or 3.][restaurant-challenge]
 
 <!-- 2. **Decision Trees to Predict Wine Variety:** [notebook][decision-trees-wine] (starter code)
 
