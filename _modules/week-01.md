@@ -23,7 +23,7 @@ days:
         type: lecture
         title: Python Basics
         url: https://docs.google.com/presentation/d/107A6ClyOLkOQRS02cF4KNJg1isGNDGyDqYS86pmI1hQ/edit?usp=sharing
-        blank: https://colab.research.google.com/drive/1xYxWmdonjm002VXfJc23Eyo2oX-49314?usp=sharing
+        filled: https://colab.research.google.com/drive/1xYxWmdonjm002VXfJc23Eyo2oX-49314?usp=sharing
   - date: '2025-07-10'
     events:
       - name: SCI COMM
