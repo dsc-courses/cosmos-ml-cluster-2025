@@ -31,7 +31,7 @@ days:
         type: lecture
         title: Science Communication - Ethics & Research
         url: https://docs.google.com/presentation/d/12PPP3QuLS9BkqDRvf59FizoKsOrhVeku02dNxXQw8sg/edit?usp=sharing
-      - name: SCI COMM - Ethics Video Info & Requirements
+      - name: SCI COMM
         type: proj
         title: COSMOS Ethics Video Competition
         url: https://docs.google.com/document/d/19aFCqNZEg2O6gkIQ8DMzGBd-40h_OWK-bSYS84CL988/edit?usp=sharing
