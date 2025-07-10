@@ -16,7 +16,8 @@ days:
     events:
       - name: SCI COMM
         type: lecture
-        title: Science Communication
+        title: Science Communication - Overview of Communication
+        url: https://docs.google.com/presentation/d/15ulHqTExiKUxWvQJX0aBZYWcVQ2nAxhazVLc0TL1-SY/edit?usp=sharing
   - date: '2025-07-09'
     events:
       - name: LEC
@@ -28,7 +29,12 @@ days:
     events:
       - name: SCI COMM
         type: lecture
-        title: Science Communication
+        title: Science Communication - Ethics & Research
+        url: https://docs.google.com/presentation/d/12PPP3QuLS9BkqDRvf59FizoKsOrhVeku02dNxXQw8sg/edit?usp=sharing
+      - name: SCI COMM - Ethics Video Info & Requirements
+        type: proj
+        title: COSMOS Ethics Video Competition
+        url: https://docs.google.com/document/d/19aFCqNZEg2O6gkIQ8DMzGBd-40h_OWK-bSYS84CL988/edit?usp=sharing
   - date: '2025-07-11'
     events:
       - name: LEC
