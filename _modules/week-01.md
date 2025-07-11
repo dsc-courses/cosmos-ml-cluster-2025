@@ -41,4 +41,6 @@ days:
         type: lecture
         title: Working with Data (numpy and pandas)
         url: https://drive.google.com/file/d/11zmJpmiTAdTNgUAOnKxCtpsFM9LZQneZ/view?usp=sharing
+        blank: https://drive.google.com/open?id=19ehgFlQHIxEwqmpECZepVFuMpYd93gtU&usp=drive_fs
+        filled: https://drive.google.com/open?id=11zmJpmiTAdTNgUAOnKxCtpsFM9LZQneZ&usp=drive_fs
 ---
