@@ -8,5 +8,5 @@ days:
         type: lecture
         title: Clustering
         url: https://drive.google.com/file/d/1o2_hteA54eAYOO7VDjDr2qs2_qd7X76X/view?usp=sharing
-        filled: https://drive.google.com/file/d/1iNq23UmoXcrmaLCh93zZL-UVlP-7iTpA/view?usp=sharing
+        blank: https://drive.google.com/file/d/1iNq23UmoXcrmaLCh93zZL-UVlP-7iTpA/view?usp=sharing
 ---
