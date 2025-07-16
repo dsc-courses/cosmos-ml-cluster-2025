@@ -9,7 +9,6 @@ days:
         title: Decision Trees & Clustering
         url: https://drive.google.com/file/d/1o2_hteA54eAYOO7VDjDr2qs2_qd7X76X/view?usp=sharing
         blank: https://colab.research.google.com/drive/1noLf66ebFh01m44At47tw-L0swVkqRvO?usp=drive_link
-        blank: https://drive.google.com/file/d/1iNq23UmoXcrmaLCh93zZL-UVlP-7iTpA/view?usp=sharing
   - date: '2025-07-15'
     events:
       - name: SCI COMM
@@ -33,5 +32,5 @@ days:
       - name: LEC
         type: lecture
         title: K Nearest Neighbor & Logistic Regression
-        url: https://drive.google.com/drive/u/0/folders/10OrUE1uGPI0YrfBNlhZu-7BExNyXOtGf
+        url: https://drive.google.com/file/d/1bvFh_u7U_OL_b95jEk9XaNfDsYS_17Vf/view?usp=drive_link
 ---
