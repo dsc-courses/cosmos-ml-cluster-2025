@@ -27,8 +27,8 @@ days:
         type: proj
         title: Google Field Trip Waiver (if under 16)
         url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
-    - date: '2025-07-16'
-      events:
+  - date: '2025-07-16'
+    events:
       - name: LEC
         type: lecture
         title: K Nearest Neighbor & Logistic Regression
