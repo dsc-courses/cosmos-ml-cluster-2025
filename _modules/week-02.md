@@ -33,4 +33,9 @@ days:
         type: lecture
         title: K Nearest Neighbor & Logistic Regression
         url: https://drive.google.com/file/d/1bvFh_u7U_OL_b95jEk9XaNfDsYS_17Vf/view?usp=drive_link
----
+  - date: '2025-07-17'
+    events:
+      - name: ETHICS
+        type: proj
+        title: Submit COSMOS Ethics Videos
+        url: https://docs.google.com/spreadsheets/d/1lNEYYHf7kWvV_cLj-Fg6l_vqnn1EUkj2qpH1wmKe3M0/edit?usp=sharing
