@@ -39,3 +39,4 @@ days:
         type: proj
         title: Submit COSMOS Ethics Videos
         url: https://docs.google.com/spreadsheets/d/1lNEYYHf7kWvV_cLj-Fg6l_vqnn1EUkj2qpH1wmKe3M0/edit?usp=sharing
+---
