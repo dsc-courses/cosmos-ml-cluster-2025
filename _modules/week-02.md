@@ -39,4 +39,10 @@ days:
         type: proj
         title: Submit COSMOS Ethics Videos / Classification Presentation Topics
         url: https://docs.google.com/spreadsheets/d/1lNEYYHf7kWvV_cLj-Fg6l_vqnn1EUkj2qpH1wmKe3M0/edit?usp=sharing
+  - date: '2025-07-18'
+    events:
+      - name: LEC
+        type: lecture
+        title: Natural Language Processing
+        url: https://drive.google.com/file/d/1LWYdFLwEDstEYPv0qhoL8sd1iknuh5t6/view?usp=drive_link
 ---
