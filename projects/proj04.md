@@ -6,7 +6,7 @@ released: true
 nav_order: 4
 ---
 
-# Week 4: Natural Language Processing
+<!-- # Week 4: Natural Language Processing
 
 ## Useful Python Basics
 
@@ -32,4 +32,4 @@ nav_order: 4
 [bag-of-words-notebook]: https://colab.research.google.com/drive/18BgQPFkr4qE77L2IP1TkvHAUyljYp3Cm?ouid=109946686203655881533&usp=drive_link
 [naive-bayes-notebook]: https://colab.research.google.com/drive/140eI6Po_1VoJb_lQyNtuOqV2X0IFGdpX?usp=drive_link
 [spam-filter-lab-notebook]: https://colab.research.google.com/drive/1RLuCLhLJNdl_muhYgRSmSnf-PofswMYH?usp=sharing
-[sentiment-analysis-notebook]: https://colab.research.google.com/drive/1LPTvoVReHX0bezSfxbk2-uRQYaY4HR5C?usp=sharing
+[sentiment-analysis-notebook]: https://colab.research.google.com/drive/1LPTvoVReHX0bezSfxbk2-uRQYaY4HR5C?usp=sharing !-->
