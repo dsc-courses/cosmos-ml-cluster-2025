@@ -18,3 +18,7 @@ nav_order: 3
 
 [knn-logistic-census]: https://drive.google.com/file/d/1tcECS2hyiX40B0kLjE3yb37LcvjQ7GSS/view?usp=sharing
 [neural-network-comparison]: https://colab.research.google.com/drive/19UTIGKEWdcvtarXxC_8mQk_Q1mFlv9WU?usp=sharing -->
+
+- [Kaggle EMNIST competition][emnist]
+
+[emnist]: https://www.kaggle.com/t/9818dd9f8147490785fa55fce9a79f7d

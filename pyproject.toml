@@ -44,6 +44,7 @@ dev = [
     "pyperclip==1.8.2",
     "pytest-xdist==3.6.1",
     "colorful==0.5.6",
+    "ty>=0.0.1a15",
 ]
 sam = [
   "jupyterlab-vim",
