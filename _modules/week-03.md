@@ -14,4 +14,10 @@ days:
         type: lecture
         title: Neural Networks
         url: https://docs.google.com/presentation/d/1RCQs-BEmuTFXZUXfQI5iVFlyk0pxu47R/edit?slide=id.g36f23065b35_1_0#slide=id.g36f23065b35_1_0
+  - date: '2025-07-23'
+    events:
+      - name: PROJ
+        type: proj
+        title: EMNIST Kaggle Competition
+        url: projects/proj03/
 ---
