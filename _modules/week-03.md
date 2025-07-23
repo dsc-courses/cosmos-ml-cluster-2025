@@ -24,16 +24,18 @@ days:
         type: Field Trip
         title: Google Field Trip Waiver
         url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
-      - name: NOTE
-        type: note
-        title: Field Trip ID & Waiver Requirements
-        text: >
-          - Students under 16 need a waiver and release signed by a parent or guardian.
-          - Students 16 or older **with** a government-issued ID (Driver's License, Passport, or Birth Certificate) must bring it to the field trip.
-          - Students 16 or older **without** government-issued ID must have:
-            - A signed waiver and release
-            - Their school student ID
-          - **All signed forms must be scanned or photographed and emailed to cosmos-cluster12@ucsd.edu by 4:00 PM on Thursday, July 23, 2025.**     
+      - name: WAIVER
+        type: Field Trip
+        title: > 
+          Google Field Trip Waiver  
+          <br><span style="color:#d9534f;"><strong>Action Required:</strong></span>  
+          <ul>
+          <li>Students under 16 need a waiver and release signed by a parent or guardian.</li>
+          <li>Students 16 or older <b>with</b> a government-issued ID (Driver's License, Passport, or Birth Certificate) must bring it to the field trip.</li>
+          <li>Students 16 or older <b>without</b> government-issued ID must have: a signed waiver and release <b>and</b> their school student ID.</li>
+          <li><b>All signed forms must be scanned or photographed and emailed to cosmos-cluster12@ucsd.edu by 4:00 PM on Thursday, July 23, 2025.</b></li>
+          </ul>
+        url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing   
   - date: '2025-07-25'
     events:
       - name: PROJ
