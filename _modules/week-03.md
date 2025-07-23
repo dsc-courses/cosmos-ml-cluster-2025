@@ -20,6 +20,10 @@ days:
         title: Neural Networks
         url: https://docs.google.com/presentation/d/1RCQs-BEmuTFXZUXfQI5iVFlyk0pxu47R/edit?slide=id.g36f23065b35_1_0#slide=id.g36f23065b35_1_0
         filled: https://drive.google.com/file/d/1jVo1QmOkueZ8Rzy-DU-yiL9h7wx8tRk0/view?usp=sharing
+      - name: WAIVER
+        type: Field Trip
+        title: Google Field Trip Waiver
+        url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
   - date: '2025-07-25'
     events:
       - name: PROJ

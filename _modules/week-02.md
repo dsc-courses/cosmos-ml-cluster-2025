@@ -25,7 +25,7 @@ days:
         url: https://docs.google.com/document/d/19aFCqNZEg2O6gkIQ8DMzGBd-40h_OWK-bSYS84CL988/edit?usp=sharing
       - name: WAIVER
         type: proj
-        title: Google Field Trip Waiver (if under 16)
+        title: Google Field Trip Waiver
         url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
   - date: '2025-07-16'
     events:
