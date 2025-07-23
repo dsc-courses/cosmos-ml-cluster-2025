@@ -24,7 +24,7 @@ days:
         title: COSMOS Ethics Video Competition
         url: https://docs.google.com/document/d/19aFCqNZEg2O6gkIQ8DMzGBd-40h_OWK-bSYS84CL988/edit?usp=sharing
       - name: WAIVER
-        type: proj
+        type: Field Trip
         title: Google Field Trip Waiver
         url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
   - date: '2025-07-16'
