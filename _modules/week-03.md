@@ -8,6 +8,7 @@ days:
         type: lecture
         title: Natural Language Processing (part 2)
         url: https://drive.google.com/file/d/1fnSJw-djPPQ3ROMJllXYWRdVP_9QE_3L/view?usp=drive_link
+    events:
       - name: C12 Photo
         type: image
         title: Cluster 12 Group Photo
