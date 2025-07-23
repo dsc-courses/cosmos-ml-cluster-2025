@@ -13,6 +13,7 @@ days:
         type: image
         title: Cluster 12 Group Photo
         url: assets/images/20250721_152034_Cluster12_Group_Photo.jpg
+  - date: '2025-07-23'
     events:
       - name: LEC
         type: lecture
