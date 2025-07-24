@@ -31,6 +31,16 @@ days:
             <li><strong>All signed forms must be scanned or photographed and emailed to cosmos-cluster12@ucsd.edu by 4:00 PM on Thursday, July 23, 2025.</strong></li>
           </ul>
         url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
+  - date: '2025-07-24'
+    events:
+      - name: SciComm
+        type: Lecture
+        title: SciComm Playlist
+        url: https://www.youtube.com/watch?v=rL37_PUFtUI&list=PLwm779rvNtJbzsEWmF_8cGhbszXb-uX_P&pp=gAQB
+      - name: SciComm
+        type: Proj
+        title: Final Project Proposals
+        url: https://forms.gle/GXR7P53ow3uJsjbR6
   - date: '2025-07-25'
     events:
       - name: PROJ
