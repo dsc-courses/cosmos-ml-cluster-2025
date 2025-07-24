@@ -37,10 +37,14 @@ days:
         type: Lecture
         title: SciComm Playlist
         url: https://www.youtube.com/watch?v=rL37_PUFtUI&list=PLwm779rvNtJbzsEWmF_8cGhbszXb-uX_P&pp=gAQB
-      - name: SciComm
+      - name: PROJ
         type: Proj
         title: Final Project Proposals
         url: https://forms.gle/GXR7P53ow3uJsjbR6
+      - name: PROJ
+        type: Proj
+        title: Data Set Resources
+        url: resources/
   - date: '2025-07-25'
     events:
       - name: PROJ
