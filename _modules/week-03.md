@@ -51,4 +51,10 @@ days:
         type: proj
         title: EMNIST Kaggle Competition
         url: projects/proj03/
+  - date: '2025-07-25'
+    events:
+      - name: LEC
+        type: lecture
+        title: Random Number in Computing
+        url: https://drive.google.com/file/d/1nv9son1WuV3wUtBHuPzDbfrlk0OWYdVq/view?usp=drive_link
 ---
