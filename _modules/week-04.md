@@ -10,7 +10,6 @@ days:
       - name: LEC
         type: lecture
         title: Demystifying Generative AI w/ Prof. Taylor Berg-Kirkpatrick
-        url: https://drive.google.com/file/d/1nv9son1WuV3wUtBHuPzDbfrlk0OWYdVq/view?usp=drive_link
   - date: '2025-07-29'
     events:
       - name: SURVEY
