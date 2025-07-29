@@ -15,7 +15,7 @@ days:
       - name: SURVEY
         type: survey
         title: COSMOS 2025 Cluster 12 Survey ** PLEASE COMPLETE **
-        url: https://docs.google.com/forms/d/e/1FAIpQLSczXnf4pn_uRyb34Mx5qE188RhLohGCic1KTwKa_80CX0QZWg/viewform
+        url: https://docs.google.com/forms/d/e/1FAIpQLScg91REHv6Cb83wR13Fco3KZNILTX2ryZmQZIqGes4ARQZoyg/viewform
       - name: PROJ
         type: proj
         title: Work on Final Project & Presentation 
