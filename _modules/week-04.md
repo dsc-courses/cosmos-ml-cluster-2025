@@ -4,6 +4,9 @@ weekNumber: 4
 days:
   - date: '2025-07-28'
     events:
+      - name: PROJ
+        type: proj
+        title: Work on Final Project & Presentation 
       - name: LEC
         type: lecture
         title: Demystifying Generative AI w/ Prof. Taylor Berg-Kirkpatrick
