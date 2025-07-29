@@ -19,4 +19,19 @@ days:
       - name: PROJ
         type: proj
         title: Work on Final Project & Presentation 
+  - date: '2025-07-30'
+    events:
+      - name: PROJ
+        type: proj
+        title: Work on Final Project & Presentation 
+  - date: '2025-07-31'
+    events:
+      - name: PROJ
+        type: proj
+        title: Morning - finish presentations | Afternoon - Practice
+  - date: '2025-08-01'
+    events:
+      - name: PROJ
+        type: proj
+        title: FINAL PRESENTATIONS
 ---
