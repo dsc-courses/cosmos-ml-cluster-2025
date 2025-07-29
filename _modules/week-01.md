@@ -25,7 +25,7 @@ days:
         url: projects/proj01/
   - date: '2025-07-08'
     events:
-      - name: SCI COMM
+      - name: LEC
         type: lecture
         title: Science Communication - Overview of Communication
         url: https://docs.google.com/presentation/d/15ulHqTExiKUxWvQJX0aBZYWcVQ2nAxhazVLc0TL1-SY/edit?usp=sharing
@@ -42,7 +42,7 @@ days:
         url: assets/Prof_Haojian_Jin_COSMOS_2025_Guest_Lecturer.pdf
   - date: '2025-07-10'
     events:
-      - name: SCI COMM
+      - name: LEC
         type: lecture
         title: Science Communication - Ethics & Research
         url: https://docs.google.com/presentation/d/12PPP3QuLS9BkqDRvf59FizoKsOrhVeku02dNxXQw8sg/edit?usp=sharing

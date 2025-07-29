@@ -21,7 +21,7 @@ days:
         filled: https://drive.google.com/file/d/1jVo1QmOkueZ8Rzy-DU-yiL9h7wx8tRk0/view?usp=sharing
   - date: '2025-07-24'
     events:
-      - name: SciComm
+      - name: LEC
         type: Lecture
         title: SciComm Playlist
         url: https://www.youtube.com/watch?v=rL37_PUFtUI&list=PLwm779rvNtJbzsEWmF_8cGhbszXb-uX_P&pp=gAQB

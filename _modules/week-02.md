@@ -11,7 +11,7 @@ days:
         blank: https://colab.research.google.com/drive/1noLf66ebFh01m44At47tw-L0swVkqRvO?usp=drive_link
   - date: '2025-07-15'
     events:
-      - name: SCI COMM
+      - name: LEC
         type: lecture
         title: Science Communication - Citations and References
         url: https://docs.google.com/presentation/d/1WuKp9wNspU7NYDcwPrBgJYtlJp4RzTI9YtUpz8VFaIU/edit?usp=sharing
@@ -35,6 +35,10 @@ days:
         url: assets/Prof_Benjamin_Smarr_Guest_Lecturer_Why_is_Health_Hard_for_AI.pdf
   - date: '2025-07-17'
     events:
+      - name: LEC
+        type: lecture
+        title: NO LECTURE - Finish ethics videos
+
       - name: ETHICS
         type: proj
         title: Submit COSMOS Ethics Videos / Classification Presentation Topics
