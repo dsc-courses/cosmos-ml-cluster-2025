@@ -29,7 +29,7 @@ days:
         type: lecture
         title: Prof. Haojian Jin - Data Science in the Physical World
         url: assets/Prof_Haojian_Jin_COSMOS_2025_Guest_Lecturer.pdf
-- date: '2025-07-10'
+  - date: '2025-07-10'
     events:
       - name: SCI COMM
         type: lecture
