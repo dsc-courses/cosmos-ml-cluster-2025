@@ -22,7 +22,7 @@ days:
   - date: '2025-07-24'
     events:
       - name: LEC
-        type: Lecture
+        type: lecture
         title: SciComm Playlist
         url: https://www.youtube.com/watch?v=rL37_PUFtUI&list=PLwm779rvNtJbzsEWmF_8cGhbszXb-uX_P&pp=gAQB
       - name: PROJ
