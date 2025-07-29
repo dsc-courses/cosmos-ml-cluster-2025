@@ -23,17 +23,6 @@ days:
         type: proj
         title: COSMOS Ethics Video Competition
         url: https://docs.google.com/document/d/19aFCqNZEg2O6gkIQ8DMzGBd-40h_OWK-bSYS84CL988/edit?usp=sharing
-      - name: WAIVER
-        type: Field Trip
-        title: >
-          <strong>Google Field Trip Waiver – ACTION REQUIRED</strong><br>
-          <ul>
-            <li>Students under 16 need a waiver and release signed by a parent or guardian.</li>
-            <li>Students 16 or older <strong>with</strong> a government-issued ID (Driver's License, Passport, or Birth Certificate) must bring it to the field trip.</li>
-            <li>Students 16 or older <strong>without</strong> government-issued ID must have a signed waiver and release <strong>and</strong> their school student ID.</li>
-            <li><strong>All signed forms must be scanned or photographed and emailed to cosmos-cluster12@ucsd.edu by 4:00 PM on Thursday, July 23, 2025.</strong></li>
-          </ul>
-        url: https://drive.google.com/file/d/11hxBN9u71b9yomE_V8noCUHNzHk5GDYK/view?usp=sharing
   - date: '2025-07-16'
     events:
       - name: LEC
