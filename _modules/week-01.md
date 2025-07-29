@@ -28,7 +28,7 @@ days:
       - name: LEC
         type: lecture
         title: Prof. Haojian Jin - Data Science in the Physical World
-        url: assets/documents/Prof_Haojian_Jin_COSMOS_2025_Guest_Lecturer.pdf
+        url: assets/Prof_Haojian_Jin_COSMOS_2025_Guest_Lecturer.pdf
 - date: '2025-07-10'
     events:
       - name: SCI COMM

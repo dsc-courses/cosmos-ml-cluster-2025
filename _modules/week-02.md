@@ -14,7 +14,7 @@ days:
       - name: SCI COMM
         type: lecture
         title: Science Communication - Citations and References
-        url: hhttps://docs.google.com/presentation/d/1WuKp9wNspU7NYDcwPrBgJYtlJp4RzTI9YtUpz8VFaIU/edit?usp=sharing
+        url: https://docs.google.com/presentation/d/1WuKp9wNspU7NYDcwPrBgJYtlJp4RzTI9YtUpz8VFaIU/edit?usp=sharing
       - name: ETHICS
         type: lecture
         title: UC San Diego Library - COSMOS Cluster 12 Machine Learning Resources
@@ -44,7 +44,7 @@ days:
       - name: LEC
         type: lecture
         title: Pro. Benjamin Smarr - Why is health hard for AI?
-        url: assets/documents/Prof_Benjamin_Smarr_Guest_Lecturer_Why_is_Health_Hard_for_AI.pdf
+        url: assets/Prof_Benjamin_Smarr_Guest_Lecturer_Why_is_Health_Hard_for_AI.pdf
   - date: '2025-07-17'
     events:
       - name: ETHICS
