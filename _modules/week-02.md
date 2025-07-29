@@ -45,6 +45,7 @@ days:
         type: lecture
         title: Pro. Benjamin Smarr - Why is health hard for AI?
         url: assets/Prof_Benjamin_Smarr_Guest_Lecturer_Why_is_Health_Hard_for_AI.pdf
+        blank: assets/Prof_Benjamin_Smarr_Guest_Lecturer_Why_is_Health_Hard_for_AI.pdf
   - date: '2025-07-17'
     events:
       - name: ETHICS

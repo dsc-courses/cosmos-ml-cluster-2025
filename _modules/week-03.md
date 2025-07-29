@@ -54,6 +54,6 @@ days:
     events:
       - name: LEC
         type: lecture
-        title: Random Number in Computing
+        title: Random Numbers in Computing
         url: https://drive.google.com/file/d/1nv9son1WuV3wUtBHuPzDbfrlk0OWYdVq/view?usp=drive_link
 ---
