@@ -23,7 +23,10 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: Work on Final Project & Presentation 
+        title: Morning - Work on Final Project & Presentation
+      - name: LEC
+        type: lecture
+        title: Afternoon - Guest Lecturer 
   - date: '2025-07-31'
     events:
       - name: PROJ
