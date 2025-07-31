@@ -26,7 +26,7 @@ days:
         title: Morning - Work on Final Project & Presentation
       - name: LEC
         type: lecture
-        title: Afternoon - Guest Lecturer 
+        title: Afternoon - Guest Lecturer - Saura Naderi
   - date: '2025-07-31'
     events:
       - name: PROJ
@@ -36,5 +36,10 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: FINAL PRESENTATIONS
+        title: UPLOAD YOUR FINAL PRESENTATIONS
+        url: https://drive.google.com/drive/folders/1AnirO5iTNKIuljIWuUZdbk5qBHhtBLNo?usp=sharing
+      - name: PROJ
+        type: proj
+        title: Presentation Schedule
+        url: assets/Cluster_12_Final_Presentation_Schedule_20250801.pdf
 ---
