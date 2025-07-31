@@ -36,10 +36,6 @@ days:
     events:
       - name: PROJ
         type: proj
-        title: UPLOAD YOUR FINAL PRESENTATIONS
-        url: https://drive.google.com/drive/folders/1AnirO5iTNKIuljIWuUZdbk5qBHhtBLNo?usp=sharing
-      - name: PROJ
-        type: proj
         title: Presentation Schedule 
         url: assets/Cluster_12_Final_Presentation_Schedule_20250801.pdf
 ---
