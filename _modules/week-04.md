@@ -27,6 +27,7 @@ days:
       - name: LEC
         type: lecture
         title: Afternoon - Guest Lecturer - Saura Naderi
+        url: https://docs.google.com/presentation/d/147gvutP9kriQeABViveysFF28Ep5vuwO/edit?usp=sharing&ouid=114370848320392601227&rtpof=true&sd=true
   - date: '2025-07-31'
     events:
       - name: PROJ
